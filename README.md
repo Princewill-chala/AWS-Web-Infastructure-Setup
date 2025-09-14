@@ -76,7 +76,7 @@ Standardize deployment of EC2 instances.
    * Key pair
 3. Save the template.
 
-📷 *\[Insert screenshot of launch template setup]*
+![launch template setup](Launch_Template.png)
 
 ---
 
