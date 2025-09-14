@@ -54,7 +54,7 @@ Capture a reusable image of the configured EC2 instance.
 3. Provide AMI name and description.
 4. Save the AMI ID.
 
-📷 *\[Insert screenshot of AMI creation]*
+![AMI](AMI.png)
 
 ---
 
