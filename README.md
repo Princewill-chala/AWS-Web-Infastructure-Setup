@@ -171,7 +171,7 @@ htop
 * CPU utilization spike
 * Memory usage (via Enhanced Monitoring)
 
-📷 *\[Insert screenshot of CloudWatch alarm triggered]*
+![CloudWatch_alarm_triggered](cloudwatch.png)
 
 ---
 
