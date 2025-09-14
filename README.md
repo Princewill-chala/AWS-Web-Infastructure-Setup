@@ -115,7 +115,7 @@ Monitor health and performance of the infrastructure.
    * Example: CPU Utilization > 70% for 5 minutes.
    * Action: Notify via SNS or trigger Auto Scaling.
 
-📷 *\[Insert screenshot of CloudWatch metrics]*
+![CloudWatch metrics](cloudwatch_metrics.png)
 
 ---
 
