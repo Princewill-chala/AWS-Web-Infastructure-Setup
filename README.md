@@ -37,7 +37,7 @@ Create a base EC2 instance to host a webserver.
 ssh -i my-key.pem ec2-user@<public-ip>
 ```
 
-📷 *\[Insert screenshot of EC2 dashboard]*
+![EC2](EC2_Dashboard.png)
 
 ---
 
