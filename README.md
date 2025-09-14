@@ -132,11 +132,6 @@ chmod 400 my-key.pem
 ssh -i my-key.pem ec2-user@<public-ip>
 ```
 
-
-📷 *\[Insert screenshot of SSH session]*
-
----
-
 ## Step 7: Stress Testing the Server
 
 ### Objective
@@ -167,8 +162,11 @@ stress --cpu 2 --vm 2 --vm-bytes 400M --timeout 60s
 top
 htop
 ```
+![ssh_stress](ssh_stress.png)
 
-### Observe in CloudWatch
+---
+
+## step 8:  Observe in CloudWatch
 
 * CPU utilization spike
 * Memory usage (via Enhanced Monitoring)
