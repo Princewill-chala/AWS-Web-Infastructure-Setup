@@ -97,7 +97,7 @@ Distribute traffic across multiple instances.
 4. Create a **Target Group** and register EC2 instances.
 5. Access site via ALB DNS name.
 
-📷 *\[Insert screenshot of ALB setup]*
+![ALB](Load_Balancer.png)
 
 ---
 
